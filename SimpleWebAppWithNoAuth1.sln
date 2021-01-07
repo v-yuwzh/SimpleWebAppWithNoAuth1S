@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.30906.181
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleWebAppWithNoAuth1", "SimpleWebAppWithNoAuth1\SimpleWebAppWithNoAuth1.csproj", "{6F5757CD-3BAB-49AC-BDB9-FAB5DC4BD362}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RazorUIClassLib", "RazorUIClassLib\RazorUIClassLib.csproj", "{9687574C-29A3-4B17-B2D5-CA1B828B88B0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{6F5757CD-3BAB-49AC-BDB9-FAB5DC4BD362}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6F5757CD-3BAB-49AC-BDB9-FAB5DC4BD362}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6F5757CD-3BAB-49AC-BDB9-FAB5DC4BD362}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9687574C-29A3-4B17-B2D5-CA1B828B88B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9687574C-29A3-4B17-B2D5-CA1B828B88B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9687574C-29A3-4B17-B2D5-CA1B828B88B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9687574C-29A3-4B17-B2D5-CA1B828B88B0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
